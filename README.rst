@@ -1,3 +1,5 @@
+**NOTE** - This is not an official CircuitPython library. It is a work in progress.
+
 Introduction
 ============
 
